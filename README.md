@@ -41,6 +41,9 @@ Key questions explored:
 5. **Revenue vs. Cost Analysis**: What are the gross profit margins across products or categories?
 
 ## Results
+
+![image](https://github.com/user-attachments/assets/5b8d12c2-a26e-4680-8ff4-856e7ee2d7c4)
+
 1. **Overall Sales Growth**: Identified trends in sales growth, with key observations on seasonal peaks or declines.
 2. **Top Products**: Noted the top-performing products, along with insights into their sales volume and revenue contribution.
 3. **Customer Segmentation Insights**: Observed that specific customer segments (e.g., age groups, purchase frequency) contribute disproportionately to revenue.
