@@ -12,6 +12,9 @@
 9. [References](#references)
 
 ## Project Overview
+
+![image](https://github.com/user-attachments/assets/33da4dcd-8f67-4283-8985-5edfdb9df75b)
+
 The purpose of this analysis is to gain insights into the company’s sales performance, focusing on metrics such as total revenue, sales trends, top-selling products, and customer segmentation. This analysis will support strategic decision-making in areas such as inventory management, marketing efforts, and sales strategies.
 
 ## Data Source
